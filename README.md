@@ -1,2 +1,2 @@
 progress : 
-baru ngehapusin data yang ga relevan ^^
+yang text-mining-talitha-fix yaaa ^^
